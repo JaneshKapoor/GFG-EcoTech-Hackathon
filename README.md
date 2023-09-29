@@ -18,3 +18,5 @@ Presentation 🔗 https://www.canva.com/design/DAFuoKgJ4yE/g_H-wiA83rkDbBvf5qpQu
 Application 🔗 https://www.figma.com/proto/RbzbDe6G7yVWpeowBaTzEQ/HackAIthon---Jabalpur?page-id=0%3A1&type=design&node-id=1-168&viewport=-3333%2C1610%2C0.73&t=ojURvAmVmmbAVxdQ-1&scaling=scale-down&starting-point-node-id=1%3A160&mode=design
 
 Design Case Study 🔗 https://drive.google.com/file/d/1I4vtBfdbOHg59lxCpyx_ZrNqGoQoVkxk/view?usp=sharing
+
+Final Video Link 🔗 https://youtu.be/OjhmNRmoTk0
